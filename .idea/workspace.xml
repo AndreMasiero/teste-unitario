@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ae7a178-fc58-4e7e-aefe-47706e627ae6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myFlattenPackages" value="true" />
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myAutoScrollFromSource" value="true" />
+    <option name="myElementSize" value="182" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SRSDJkI1osYhkRZ52GS0bweEqW" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../pm73-dao/pm73-dao" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LocacaoServiceTest">
+    <configuration name="All in TestesUnitarios (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in TestesUnitarios" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculoValorLocacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.servicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.servicos" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.servicos.CalculoValorLocacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.servicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.servicos" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.servicos.LocacaoServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.deveDevolverNaSegundaAoALugarNoSabado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.servicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.servicos" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.servicos.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="deveDevolverNaSegundaAoALugarNoSabado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.deveEnviarEmailParaLocacoesAtrasadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.servicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.servicos" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.servicos.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="deveEnviarEmailParaLocacoesAtrasadas" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocacaoServiceTest.naoDeveAlugarFilmeParaNegativadoSpc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestesUnitarios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.ce.wcaquino.servicos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.ce.wcaquino.servicos" />
+      <option name="MAIN_CLASS_NAME" value="br.ce.wcaquino.servicos.LocacaoServiceTest" />
+      <option name="METHOD_NAME" value="naoDeveAlugarFilmeParaNegativadoSpc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculoValorLocacaoTest" />
+        <item itemvalue="JUnit.LocacaoServiceTest.naoDeveAlugarFilmeParaNegativadoSpc" />
+        <item itemvalue="JUnit.LocacaoServiceTest.deveEnviarEmailParaLocacoesAtrasadas" />
+        <item itemvalue="JUnit.LocacaoServiceTest.deveDevolverNaSegundaAoALugarNoSabado" />
+        <item itemvalue="JUnit.All in TestesUnitarios (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ae7a178-fc58-4e7e-aefe-47706e627ae6" name="Default Changelist" comment="" />
+      <created>1571524794665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571524794665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestesUnitarios$All_in_TestesUnitarios__1_.ic" NAME="All in TestesUnitarios (1) Coverage Results" MODIFIED="1597701720576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TestesUnitarios$CalculoValorLocacaoTest.ic" NAME="CalculoValorLocacaoTest Coverage Results" MODIFIED="1597703696244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.ce.wcaquino.servicos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/TestesUnitarios$LocacaoServiceTest.ic" NAME="LocacaoServiceTest Coverage Results" MODIFIED="1597703500912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.ce.wcaquino.servicos.*</FILTER>
+    </SUITE>
+  </component>
+</project>
